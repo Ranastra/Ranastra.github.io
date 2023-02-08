@@ -1,6 +1,5 @@
 @echo off
 
-rem Check if Git is installed
 where git >nul
 if %errorlevel% neq 0 (
     echo Error: "Falsches Terminal"
