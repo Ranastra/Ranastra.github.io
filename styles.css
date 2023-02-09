@@ -1,125 +1,125 @@
 body {
-  background-color: #232527;
-  color: #fff;
-  width: 1530px;
-  height: 730px;
-  display: flex;
+    background-color: #232527;
+    color: #fff;
+    width: 1530px;
+    height: 730px;
+    display: flex;
 }
 
 html {
-  background-color: grey;
+    background-color: grey;
 }
 
 #navbar1 {
-  /*border: 3px solid grey;*/
-  width: 50px;
-  height: 100%;
-  background-color: #191b1d;
+    /*border: 3px solid grey;*/
+    width: 50px;
+    height: 100%;
+    background-color: #191b1d;
 }
 
 #navbar2 {
-  background-color: #232527;
-  width: 1480px;
-  height: 40px;
-  padding-top: 5px;
-  margin: 0;
-  display: flex;
+    background-color: #232527;
+    width: 1480px;
+    height: 40px;
+    padding-top: 5px;
+    margin: 0;
+    display: flex;
 }
 
 .container {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .searchbar {
-  border-radius: 20px;
-  background-color: rgb(21, 22, 24);
-  /* border: 3px solid yellow; */
-  text-align: center;
-  height: 20px;
-  margin: auto;
-  width: 250px;
-  margin-top: 5px;
-  padding-left: 10px;
-  padding-top: 5px;
+    border-radius: 20px;
+    background-color: rgb(21, 22, 24);
+    /* border: 3px solid yellow; */
+    text-align: center;
+    height: 20px;
+    margin: auto;
+    width: 250px;
+    margin-top: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
 }
 
 #search-button {
-  margin-top: -3px;
-  margin-left: 0x;
-  padding: 0;
-  width: 20px;
-  height: 20px;
-  background-image: url("picture-icons/search.png");
-  background-size: cover;
-  background-position: center;
-  border: 0;
-  float: left;
+    margin-top: -3px;
+    margin-left: 0x;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    background-image: url("picture-icons/search.png");
+    background-size: cover;
+    background-position: center;
+    border: 0;
+    float: left;
 }
 
 #search_query {
-  float: right;
-  margin-top: -3px;
-  margin-right: 20px;
-  background-color: rgb(21, 22, 24);
-  color: rgb(255, 255, 255);
-  border: 0;
-  width: 200px;
+    float: right;
+    margin-top: -3px;
+    margin-right: 20px;
+    background-color: rgb(21, 22, 24);
+    color: rgb(255, 255, 255);
+    border: 0;
+    width: 200px;
 }
 
 input:focus {
-  outline: none;
+    outline: none;
 }
 
 .navbar-button {
-  width: 60%;
-  border: 0;
-  margin-top: 30px;
-  margin-left: 9px;
-  height: 24px;
-  background-size: cover;
-  background-position: center;
+    width: 60%;
+    border: 0;
+    margin-top: 30px;
+    margin-left: 9px;
+    height: 24px;
+    background-size: cover;
+    background-position: center;
 }
 
 #home {
-  font-size: 30px;
-  margin-left: 30px;
-  font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-left: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #page-content {
-  padding: 0px 30px;
-  margin: 0;
+    padding: 0px 30px;
+    margin: 0;
 }
 
 .show-border {
-  border: 3px solid yellow;
+    border: 3px solid yellow;
 }
 
 h2 {
-  font-size: 20px;
-  font-weight: lighter;
-  font-family: Arial, Helvetica, sans-serif;
-  /* margin-left: 20px; */
-  margin: 0;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin-left: 20px; */
+    margin: 0;
 }
 
 * {
-  outline: 1px solid red;
+    outline: 1px solid red;
 }
 
 .game-container {
-  height: 145px;
-  width: 1420px;
-  margin: 0;
-  padding: 0;
+    height: 145px;
+    width: 1420px;
+    margin: 0;
+    padding: 0;
 }
 
 .game {
-  height: 145px;
-  width: auto;
-  margin: 0;
-  padding: 0;
-  float: left;
+    height: 145px;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    float: left;
 }
