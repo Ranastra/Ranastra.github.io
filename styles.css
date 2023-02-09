@@ -110,16 +110,21 @@ h2 {
 }
 
 .game-container {
-    height: 145px;
+    height: 235px;
     width: 1420px;
     margin: 0;
     padding: 0;
 }
 
 .game {
-    height: 145px;
+    height: 235px;
     width: auto;
     margin: 0;
     padding: 0;
     float: left;
+    padding-right: 8.5px;
+}
+
+#friend-box {
+    height:145px;
 }
