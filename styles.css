@@ -115,3 +115,8 @@ h2 {
   margin: 0;
   padding: 0;
 }
+
+.game {
+  height: 100%;
+  width: 100px;
+}
