@@ -118,6 +118,7 @@ h2 {
 
 .game {
   height: 145px;
+  width: auto;
   margin: 0;
   padding: 0;
   float: left;
