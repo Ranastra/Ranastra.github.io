@@ -1,0 +1,45 @@
+ul {
+  display: flex;
+  list-style-type: none;
+  text-align: center;
+  justify-content: center;
+  width: 1250px;
+  margin: auto;
+}
+
+h1 {
+  color: #e2a115;
+  font-weight: bold;
+  font-family: Consolas;
+  font-size: 50px;
+}
+
+.card {
+  width: 125px;
+  background-color: #727272;
+  color: #e2a115;
+  margin: 10px;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+body {
+  background-color: #222222;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.container {
+  width: 100%;
+  text-align: center;
+}
+
+li {
+  border: 3px solid #e2a115;
+}
+
+img {
+  width: 6em;
+}
