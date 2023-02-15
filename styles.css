@@ -106,7 +106,7 @@ h2 {
 }
 
 * {
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
 }
 
 .game-container {
@@ -116,13 +116,22 @@ h2 {
     padding: 0;
 }
 
-.game {
-    height: 235px;
+div.game {
+    height: 215px;
     width: auto;
     margin: 0;
     padding: 0;
     float: left;
-    padding-right: 8.5px;
+    padding-right: 16px;
+    padding-top: 15px;
+}
+
+img.game {
+    outline: 6px solid black;
+    padding: 0;
+    border-radius: 3px;
+    height: 205px;
+    width: auto;
 }
 
 #friend-box {
